@@ -1,0 +1,9 @@
+-sname wx_server_example
+
+-setcookie wx_server_example_cookie
+
+-project_dir ../lib
++C multi_time_warp
++K true
++A30
++Q 16384
